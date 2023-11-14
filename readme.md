@@ -42,4 +42,6 @@ This repository houses a simulated dataset designed for Frequency-domain Diffuse
   - Same structure as `data/simulated_linescans` but also contains:
     - `data/simulated_linescans_testdisks/example_list.csv`: Depth and optical property information for each test disk example.
 
+
+This dataset was produced as part of a project supported by the National Institute of Biomedical Imaging and Bioengineering (NIBIB) of the National Institutes of Health (NIH) Award Number R01EB029595.
 Feel free to contact Robin Dale at rbd079@student.bham.ac.uk for any inquiries or additional information.
